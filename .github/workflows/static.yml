@@ -1,0 +1,43 @@
+<main class="relative z-10">
+
+    <!-- 1. HERO SECTION -->
+    <section class="py-24 text-center px-6 max-w-4xl mx-auto">
+        <p class="text-xs uppercase tracking-[0.3em] text-gold/80 mb-4">Professional Tarot Guidance</p>
+        <h1 class="font-serif text-5xl md:text-7xl font-bold mb-6">
+            Temukan Kejelasan & Petunjuk <br><span class="gold-text">Dalam Setiap Langkah</span>
+        </h1>
+        <p class="text-gray-400 text-base md:text-lg max-w-2xl mx-auto mb-10">
+            RANUM hadir untuk membantu menavigasi pertanyaan terdalam dalam hidup Anda.
+        </p>
+        <!-- Tombol CTA -->
+        <div class="flex justify-center gap-4">
+            <a href="#services" class="bg-gold text-obsidian px-8 py-3 font-medium text-sm rounded-full">Pilih Paket Sesi</a>
+            <a href="#daily-draw" class="border border-gold/30 text-gold px-8 py-3 text-sm rounded-full">Tarik Kartu Hari Ini</a>
+        </div>
+    </section>
+
+    <!-- 2. INTERACTIVE DAILY TAROT DRAW -->
+    <section id="daily-draw" class="py-16 px-6 max-w-5xl mx-auto">
+        <h2 class="font-serif text-3xl md:text-4xl gold-text font-bold text-center mb-12">Daily Intuitive Reading</h2>
+        <!-- 3 Kartu 3D Interaktif -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto">
+            ... (Kartu 1, 2, 3) ...
+        </div>
+    </section>
+
+    <!-- 3. SERVICES & PRICING SECTION -->
+    <section id="services" class="py-20 px-6 max-w-6xl mx-auto">
+        <h2 class="font-serif text-4xl md:text-5xl font-bold text-center mb-16">Pilihan Paket & Investasi</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <!-- Love Life (35k) -->
+            <!-- Karir & Finansial (40k) -->
+            <!-- Past Life Reading (55k) -->
+        </div>
+    </section>
+
+    <!-- 4. FAQ SECTION -->
+    <section id="faq" class="py-16 px-6 max-w-3xl mx-auto">
+        ... (Pertanyaan Umum & Jawaban) ...
+    </section>
+
+</main>
